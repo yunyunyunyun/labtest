@@ -1,7 +1,7 @@
 ### YamlMime:Tutorial
-title: tutorial1
+title: lab1
 metadata:
-  title: Tutorial1
+  title: Lab1
   description: In this quickstart, you'll use your browser to learn C# interactively. You write C# code and see the results of compiling and running your code directly in the browser.
   audience: Developer
   level: Beginner
@@ -24,4 +24,4 @@ items:
   content: |
     [!include[](includes/step2.md)]
 - content: |
-    You've completed this tutorial.
+    You've completed this lab.
