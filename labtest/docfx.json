@@ -35,12 +35,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/tutorialtest/breadcrumb/toc.json",
+      "breadcrumb_path": "/labtest/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "tutorialtest",
+    "dest": "labtest",
     "markdownEngineName": "markdig"
   }
 }
