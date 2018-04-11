@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "tutorialtest",
-      "build_source_folder": "tutorialtest",
+      "build_source_folder": "labtest",
       "build_output_subfolder": "tutorialtest",
       "locale": "en-us",
       "monikers": [],
