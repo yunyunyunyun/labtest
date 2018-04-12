@@ -18,10 +18,10 @@ items:
 - title: Step1
   durationInMinutes: 2
   content: |
-    [!include[](includes/step1.md)]
+    [!include[](includes/lab-part-1.md)]
 - title: Step2
   durationInMinutes: 3
   content: |
-    [!include[](includes/step2.md)]
+    [!include[](includes/lab-part-2.md)]
 - content: |
     You've completed this lab.
