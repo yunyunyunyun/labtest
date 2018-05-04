@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "labtest",
-      "build_source_folder": "labtest",
-      "build_output_subfolder": "labtest",
+      "docset_name": "labs",
+      "build_source_folder": "labs",
+      "build_output_subfolder": "labs",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
